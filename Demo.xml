@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Demo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+	<Id>DemoMultiFrameworkHosting</Id>
+	<Technologies>
+		<Technology>ASP.NET MVC</Technology>
+		<Technology>Windows Azure</Technology>
+</Technologies>
+	<Author>
+		<Name>Jon Galloway</Name>
+		<Blog>http://weblogs.asp.net/jgalloway</Blog>
+		<Email>jon.galloway@microsoft.com</Email>
+	</Author>
+	<Description>This demo shows how how Windows Azure Web Sites can host multiple technologies in one site without any additional configuration.</Description>
+	<Document ConversionType="Html">Demo.md</Document>
+	<Title>DEMO - Multi-framework Hosting</Title>
+	<Version>1.0.1</Version>
+	<Source>.\Source</Source>
+</Demo>
